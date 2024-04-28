@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.HomeWork2 {
+    width: 100%;
+
+    input {
+        width: 250px;
+        height: 50px;
+        border: 5px solid red;
+        margin: 50px auto;
+        font-size: 25px;
+        text-align: center;
+        margin-left: 700px;
+    }
+    button{
+        width: 150px;
+        height: 50px;
+        border: 5px solid black;
+        font-size: 25px;
+        margin-left: 15px;
+    }
+}
+#userData{
+    font-size: 30px;
+    line-height: 2;
+    margin-left: 700px;
+}
